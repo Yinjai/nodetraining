@@ -1,0 +1,21 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "Node training for grads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "node",
+    "training"
+  ],
+  "author": "Chris Gregori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1"
+  }
+}
