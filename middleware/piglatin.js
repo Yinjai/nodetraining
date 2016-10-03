@@ -32,10 +32,4 @@ var pigLatin = function(req, res, next) {
   return next();
 }
 
-function output(vowels, word) {
-
-
-
-
-}
 module.exports = pigLatin;
